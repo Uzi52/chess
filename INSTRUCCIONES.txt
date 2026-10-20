@@ -1,0 +1,11 @@
+ChessView — Web para iPhone
+
+1. En GitHub creá un repositorio público (ej. chessview).
+2. Subí index.html, manifest.webmanifest, icon-192.png e icon-512.png a la raíz.
+3. En Settings > Pages seleccioná Deploy from a branch > main > /(root) y guardá.
+4. Abrí la URL HTTPS de GitHub Pages en Safari en el iPhone.
+5. Compartir > Agregar a pantalla de inicio.
+
+ESTADO ACTUAL: muestra la cámara, pero NO detecta las piezas de forma automática. Registrar los movimientos en el tablero digital. Calcula sugerencias básicas locales o estadísticas de aperturas; NO tiene Stockfish todavía.
+
+La cámara requiere servir la página desde HTTPS; abrir index.html desde Archivos puede no funcionar.
